@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pip
+  - sys
+  - shutil
+  - matplotlib
+  - wget
+
